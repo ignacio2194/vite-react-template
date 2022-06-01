@@ -1,0 +1,30 @@
+.title_Form {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.login_Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.btn-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnSubmit {
+  font-size: 15px;
+  font-family: monospace;
+  width: 100px;
+  height: 30px;
+  border-width: 1px;
+  color: #666666;
+  border-color: #dcdcdc;
+  font-weight: bold;
+  border: 6px;
+}
